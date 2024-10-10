@@ -1,3 +1,11 @@
+# Usage notes
+checkout CUSTOMIZE.md
+Update news: _news
+Update publications:
+* _bibliography/papers.bib
+* assets/imgs/publication_preview
+
+
 # al-folio
 
 <div align="center">

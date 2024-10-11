@@ -1,97 +1,93 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Robotics
+      institution: Robotics Institute, Carnegie Mellon University
+      year: 2021
+      Advisor: Matthew T. Mason
+      Thesis: Robust Manipulation with Active Compliance
+    - title: Master in Robotics
+      institution: Robotics Institute, Carnegie Mellon University
+      year: 2017
+      Advisor: Matthew T. Mason
+    - title: Bachelor of Engineering
+      institution: Automation, Tsinghua University
+      year: 2015
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Stanford University
+      year: 2024 - Present
+
+    - title: Applied Scientist
+      institution: Amazon Robotics
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      - Led manipulation policy design from prototyping to production for the Stow-to-fabric-pod project
+      - Owned motion planning and trajectory generation for the pinch-grasping project.
+
+    - title: Visiting Student Researcher
+      institution: MCube Lab, MIT
+      year: 2019 May - Aug
       description:
-        - Description 1.
-        - Description 2.
+        - Developed manipulation strategies to selectively chose grasps with high observability and manipulability.
+        - Built a motion planning pipeline for bi-manual picking and regrasping in the industrial kitting problem.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Intern
+      institution: Toyota Research Institute
+      year: 2018 June - Aug
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Developed a hierarchical motion prototyping pipeline to quickly design and adapt complex motion strategies.
+        - Work was included in the TRI Board-of-Directors Demo.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2014
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Robocup Adultsize 3rd place worldwide
+        - Leader of a team of 15 students
+    - year: 2013
       items:
-        - Max Planck Medal
+        - 1st Place in IJCAI 2013 Robot Competition
+    - year: 2012 - 2014
+      items:
+        - National Fellowships
+        - Tencent Weiai Innovation Fellowships
+        - Tsinghua HAGE Fellowships
+        - Tsinghua-Samsung Fellowships
+        - Tsinghua-CICS Fellowships
 
-- title: Academic Interests
-  type: nested_list
+- title: Teaching
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Teaching Assistant
+      description:
+        - Robotics and Autonomous Systems Seminar, Fall 2024, Stanford University
+    - title: Teaching Assistant
+      description:
+        - 16-642 Manipulation, Estimation, and Control, Spring 2019, CMU
+        - lecture on Optimal Control
+    - title: Teaching Assistant
+      description:
+        - 16-741 Mechanics of Manipulation, Fall 2019, CMU
+        - lecture on Force Control
+- title: Invited Talks & Presentations
+  type: time_table
+  items:
+    - 2019.11.7 Oral presentation at IROS 2019, Macau, China, Criteria for Maintaining Desired Contacts for Quasi-Static Systems Link to slides
+    - 2019.10.30 Invited talk at Beijing Institute of Technology, Beijing, China, Force Control for Robust Contact-Rich Manipulation
+    - 2019.8 Invited talks at Institute of Advanced Technology and UBTech Inc., Shenzhen, China, Dexterous Manipulation Using Simple Robot Hands
+    - 2019.6.17 Invited talk at MCube Lab, MIT, Cambridge, United States, Robust Execution of Fine Motion Plans
+    - 2019.5.22 Poster presentation at ICRA 2019, Montreal, Canada, Robust Execution of Contact-Rich Motion Plans by Hybrid Force-velocity Control
+    - 2019.5.7 Invited talk at ABB Research, Hartford, United States, Dexterous Manipulation via Simple Robot Hands
+    - 2019.4.24 Contributed talk at CMU RI Manipulation Discussion Group, Pittsburgh, United States, Robust Execution of Fine Motion Plans
+    - 2019.1 Invited talks at SUSTech and Dorabot, Inc., Shenzhen, China, Dexterous Manipulation via Simple Robot Hands
+    - 2018.8.24 Intern presentation at Toyota Research Institute, Cambridge, United States, Pushing it! Useful Pushing Primitives for Grasp Generation in Constrained Environments
+    - 2018.6.23 Contributed talk at MCube-MLab Workshop, Pittsburgh, United States, Road to Dexterous Reorienting
+    - 2018.5.26 Poster presentation at ICRA 2018, Brisbane, Australia, Fast Planning for 3D Any-Pose-Reorienting using Pivoting
+    - 2017.6.15 UBTech Beijing Research Institute, Beijing, China, Overview of My Work on Non-prehensile Manipulation
+    - 2016.12.19 Oral presentation at 12th WAFR, San Francisco, United States, Planar Dynamic Pivoting by Regulating Inertial and Grip Forces
+    - 2014.12.5 Poster presentation at Robio 2014, Bali, Indonesia, Follow my step: A framework for biped robots to imitate human walking

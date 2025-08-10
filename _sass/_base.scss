@@ -668,7 +668,7 @@ footer.sticky-bottom {
   }
 
   h2 {
-    margin-bottom: 1rem;
+    // margin-bottom: 1rem;
 
     span {
       font-size: 1.5rem;
@@ -678,8 +678,8 @@ footer.sticky-bottom {
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    // padding-top: 1rem;
+    // margin-top: 2rem;
     text-align: right;
   }
 
@@ -687,6 +687,10 @@ footer.sticky-bottom {
     list-style: none;
     padding: 0;
     margin-top: 0;
+
+    .col {
+      padding-left: 0; // make figure bigger
+    }
 
     li {
       margin-bottom: 1rem;

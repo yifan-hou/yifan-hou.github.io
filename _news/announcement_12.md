@@ -4,4 +4,4 @@ date: 2025-09-27 00:00:00-0500
 inline: true
 related_posts: false
 ---
-[CR-DAgger](https://compliant-residual-dagger.github.io/) won the <span style="color:9d0208">**best paper award**</span> at the CoRL 2025 [Human to Robot (H2R) workshop](https://sites.google.com/view/h2r-corl2025/home)!
+[CR-DAgger](https://compliant-residual-dagger.github.io/) won the <span style="color:#9d0208">**best paper award**</span> at the CoRL 2025 [Human to Robot (H2R) workshop](https://sites.google.com/view/h2r-corl2025/home)!

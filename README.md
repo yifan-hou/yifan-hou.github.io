@@ -1,9 +1,40 @@
 # Usage notes
 checkout CUSTOMIZE.md
+
+## Add/remove pages
+The pages shown are determined by the files under _pages. Each .md file here defines properties for the page including
+* layout: which layout file does this page use. It defines style and behavior
+* permalink: the path to access it
+* title
+
+
+## Update news
 Update news: _news
-Update publications:
+
+## Update publications
+Check the following files:
 * _bibliography/papers.bib
 * assets/imgs/publication_preview
+
+## Update CV
+CV is a special layout that will read contexts from _data/cv.yml. For more details of the cv page, see CUSTOMIZE.md
+
+
+
+## Serve the website locally to see changes
+Checkout INSTALL.md. The gist of it is:
+
+- First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
+- Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
+
+```bash
+$ docker compose pull
+$ docker compose up
+```
+
+Note that when you run it for the first time, it will download a docker image of size 400MB or so. To see the template running, open your browser and go to `http://localhost:8080`. You should see a copy of the theme's demo website.
+
+
 
 
 # al-folio

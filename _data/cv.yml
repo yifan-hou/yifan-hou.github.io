@@ -1,36 +1,28 @@
 - title: Honors and Awards
-  type: time_table
+  type: list
   contents:
-    - year: 2025
-      items:
-        - Best Paper Award, CoRL 2025 workshop on Human2Robot
-        - Best Paper Finalist, Conference on Robot Learning (CoRL) 2025
-        - Best Paper Award, ICRA 2025 workshop on Contact-rich Manipulation
-    - year: 2014
-      items:
-        - Robocup 2014 Adultsize 3rd place worldwide, Team leader of Tsinghua Hephastus
-    - year: 2013
-      items:
-        - Robocup 2013 Adultsize 3rd place worldwide
-        - 1st Place in IJCAI 2013 Robot Competition
-    - year: 2012 - 2014
-      items:
-        - National Fellowships
-        - Tencent Weiai Innovation Fellowships
-        - Tsinghua HAGE Fellowships
-        - Tsinghua-Samsung Fellowships
-        - Tsinghua-CICS Fellowships
+    - Best Paper Award, CoRL 2025 workshop on Human2Robot
+    - Best Paper Finalist, Conference on Robot Learning (CoRL) 2025
+    - Best Paper Award, ICRA 2025 workshop on Contact-rich Manipulation
+    - Robocup 2014 Adultsize 3rd place worldwide, Team leader of Tsinghua Hephastus
+    - Robocup 2013 Adultsize 3rd place worldwide
+    - 1st Place in IJCAI 2013 Robot Competition
+    - National Fellowships 2012-2014
+    - Tencent Weiai Innovation Fellowships 2014
+    - Tsinghua HAGE Fellowships 2013
+    - Tsinghua-Samsung Fellowships 2013
+    - Tsinghua-CICS Fellowships 2012
 
 - title: Teaching & Services
   type: time_table
   contents:
     - title: Organizing Committee Member
       description:
-        - <a href="https://stanfordasl.github.io/robotics_seminar/">Stanford Robotics Seminar</a> Fall 2024 - Spring 2026
+        - <a href="https://stanfordasl.github.io/robotics_seminar/">Stanford Robotics Seminar</a> Since Fall 2024
     - title: Guest Lecturer
       description:
         - <a href="https://sites.google.com/view/win24-25-eecs-381/home">EE/CS 381</a>, Sensorimotor Learning for Embodied Agents, Winter 2024, Stanford University
-        - Introduction to Compliance Control <a href="https://www.dropbox.com/scl/fi/4xg3notqen0wrbkyk59i1/Intro_to_compliance_control.pdf?rlkey=qrm58807j5q4irl2viyrp2df7&e=1&dl=0">[slides]</a>
+        - Lecture on Introduction to Compliance Control <a href="https://www.dropbox.com/scl/fi/4xg3notqen0wrbkyk59i1/Intro_to_compliance_control.pdf?rlkey=qrm58807j5q4irl2viyrp2df7&e=1&dl=0">[slides]</a>
     - title: Teaching Assistant & Guest Lecturer
       description:
         - 16-642 Manipulation, Estimation, and Control, Spring 2019, CMU
@@ -39,3 +31,6 @@
       description:
         - 16-741 Mechanics of Manipulation, Fall 2019, CMU
         - Lecture on Force Control
+    - title: Main Organizer
+      description:
+        - <a href="https://manipulation-workshop.com/">IROS Workshop on Manipulation through Contacts</a>, Nov 2019

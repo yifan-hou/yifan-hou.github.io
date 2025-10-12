@@ -7,6 +7,8 @@ first_name: Yifan
 middle_name:
 last_name: Hou
 # email: yifanhou@stanford.edu
+# contact_note: >
+  # You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Postdoctoral researcher at Stanford working on robotic manipulation.
 footer_text: >

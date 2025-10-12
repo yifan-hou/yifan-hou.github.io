@@ -17,15 +17,15 @@ news: true # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: false # includes a list of news items
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Postdoctoral researcher at the [REALab](https://real.stanford.edu/), Stanford University, working with [Prof. Shuran Song](https://shurans.github.io/). Prior to joining Stanford, I was an Applied Scientist on [the Vulcan team](https://www.amazon.science/blog/how-amazons-vulcan-robots-use-touch-to-plan-and-execute-motions?utm_campaign=how-amazons-vulcan-robots-use-touch-to-plan-and-execute-motions&utm_medium=organic-asw&utm_source=linkedin&utm_content=2025-05-09-how-amazons-vulcan-robots-use-touch-to-plan-and-execute-motions&utm_term=2025-may) at Amazon Robotics. I obtained my PhD and MS degrees from the Robotics Institute at Carnegie Mellon University, advised by [Prof. Matthew T. Mason](https://www.cs.cmu.edu/~mason/). I obtained BoE from the department of Automation at Tsinghua University. I had also spent time at Toyota Research Institute and MIT.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have accepted the faculty offer from UT Austin CS and will start at Fall 2027.
+I accepted the faculty offer from UT Austin CS and will start in Fall 2027.

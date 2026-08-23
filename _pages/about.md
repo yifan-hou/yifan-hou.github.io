@@ -34,3 +34,7 @@ My work focuses on extending the capabilities and robustness of robotic manipula
 * **DAgger/Post-training**: Efficiently learning of contact-rich behavior from a small amount of rich data. [MuSe](https://jadenvc.github.io/multisensory-continual-learning/), [CR-DAgger](https://compliant-residual-dagger.github.io/)
 * **Sim2real transfer**: Exploring physics safely in simulation to guide robots in the real world. [DexMachina](https://project-dexmachina.github.io/), [SimPLE](https://mcube.mit.edu/research/simPLE.html)
 * **Mechanics-based sythesis and optimization**: Quantifying contact mode robustness and optimizing control for them. [Hybrid Servoing](https://arxiv.org/pdf/2011.04872pdf), [Shared Grasping](https://www.roboticsproceedings.org/rss16/p086.pdf), [Planning](https://arxiv.org/pdf/2105.14431)
+
+**How to work with me**:
+* I mentor interns at NVIDIA all year around. Reach out to me to see if I still have headcounts.
+* Apply for PhD/MS at UT Austin CS or related departments.

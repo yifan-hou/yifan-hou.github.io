@@ -427,6 +427,12 @@ ninja.data = [{
           section: "News",},{id: "news-checkout-multisensory-continual-learning-muse-for-how-we-use-a-small-amount-of-force-data-to-unlock-force-aware-behavior-on-pretraining-tasks",
           title: 'Checkout Multisensory Continual Learning (MuSe) for how we use a small amount of...',
           description: "",
+          section: "News",},{id: "news-check-out-needlework-our-new-work-on-improving-robot-learning-from-imperfect-demonstrations-by-stitching-useful-behaviors-together-with-short-verified-action-bridges-paper",
+          title: 'Check out NEEDLEWORK, our new work on improving robot learning from imperfect demonstrations...',
+          description: "",
+          section: "News",},{id: "news-the-journal-version-of-compliant-residual-dagger-is-now-published-in-the-international-journal-of-robotics-research-ijrr-paper",
+          title: 'The journal version of Compliant Residual DAgger is now published in The International...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -477,7 +483,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%69%66%61%6E%68%6F%75@%73%74%61%6E%66%6F%72%64.%65%64%75", "_blank");
+          window.open("mailto:%79%69%66%68%6F%75@%6E%76%69%64%69%61.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=85D2bRgAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/YifanHou2", "_blank");
         },
       },{
         id: 'social-github',
@@ -492,13 +512,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/yifan-hou-592491114", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=85D2bRgAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
